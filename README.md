@@ -3,9 +3,11 @@
 ## Description
  
  - Project Goal
+  
 The aim for this project was to create a message that everytime the code was ran would produce random words or numbers to create a different message. To build your knowledge of git and github.
 
 - Why did I do this?
+  
 This was part of the Codecademy full stack programming course to help put learning into practice, using your own initiative and problem solving skills to code and to help improve your understanding of git and github.
 
 
